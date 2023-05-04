@@ -1,0 +1,18 @@
+
+1.Shape adinda bir interface yaradin icinde double return eden getArea() metodu olsun.Circle ve Square classlarina
+Shape interface ni implement edin ve getArea() metodu ile dairenin ve kvadraditn sahesini hesablayin
+
+
+2.Language adinda bir interface yaradin icinde name-i paramater qebul eden getName() metodu olsun.ProgrammingLanguage
+clasina Language interface ni implement edin . ve output:"Java bir proqramlasdirma dilidir" olsun.
+
+3.Vegetable adinda bir interfaceniz olsun.Interface de vegetableName(),receivedKg() ve price() adinda metodlariniz olsun
+Onion,Garlic,Tomato adinda classlara interface i implement edin sizden istenen her bir terevezin adini,nece kg
+alindigini ve alinan kg gore terevezin qiymetini hesablayan program yazmalisiniz(Scannerden ve Switch den istifade edin)
+
+4.Animal adinda bir interfaceniz olsun. Interface de getname() ve makeNoise() metodlari olsun.Dog ve Cat classlara
+interface i implement edin. Sizden istenen her bir heyvanin adini ve cixardigi sesi veren program yazmaqdir
+
+5.Database adinda bir Interfaceniz olsun. icinde login(),add(),delete(),get() ve update() mtodlariniz.Buradaki
+Interface implent ededn classlar Mysql ve Oracle classlaridir.Metodlari classlarda xususilesdirin.
+
